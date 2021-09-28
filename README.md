@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tomwang221812
+- 👀 I’m interested in computer science, VLSI, edge devices, MCUs, SBCs, deep learning and so on....
+- 📫 How to reach me: tomwang221812@yahoo.com.tw
